@@ -4,9 +4,9 @@ Mirai Family Benchmarks
 
 # How to use
 
-Maybe you need to configure your LLVM install folder first, take a look at the create_obs script.
+Maybe you need to configure your LLVM install folder first, take a look at the generate script.
 
-./create_obj.sh
+./generate.sh
 
 # Results
 
